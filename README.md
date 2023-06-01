@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @georgeburton97
 - 👀 I’m an experienced web developer
-- 🌱 I’m currently learning React Native  
+- 🌱 I’m currently learning Next.js
 - 📫 You can reach me at georgegarethburton@gmail.com
